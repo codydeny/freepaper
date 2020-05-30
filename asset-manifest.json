@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/freepaper/static/css/main.5f361e03.chunk.css",
+    "main.js": "/freepaper/static/js/main.5c9a85eb.chunk.js",
+    "main.js.map": "/freepaper/static/js/main.5c9a85eb.chunk.js.map",
+    "runtime-main.js": "/freepaper/static/js/runtime-main.06a7eba3.js",
+    "runtime-main.js.map": "/freepaper/static/js/runtime-main.06a7eba3.js.map",
+    "static/css/2.40a775a0.chunk.css": "/freepaper/static/css/2.40a775a0.chunk.css",
+    "static/js/2.4c4ca3e8.chunk.js": "/freepaper/static/js/2.4c4ca3e8.chunk.js",
+    "static/js/2.4c4ca3e8.chunk.js.map": "/freepaper/static/js/2.4c4ca3e8.chunk.js.map",
+    "index.html": "/freepaper/index.html",
+    "precache-manifest.4048e66b8a6a045b898747666438f455.js": "/freepaper/precache-manifest.4048e66b8a6a045b898747666438f455.js",
+    "service-worker.js": "/freepaper/service-worker.js",
+    "static/css/2.40a775a0.chunk.css.map": "/freepaper/static/css/2.40a775a0.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/freepaper/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.4c4ca3e8.chunk.js.LICENSE.txt": "/freepaper/static/js/2.4c4ca3e8.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/freepaper/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06a7eba3.js",
+    "static/css/2.40a775a0.chunk.css",
+    "static/js/2.4c4ca3e8.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.5c9a85eb.chunk.js"
+  ]
+}
