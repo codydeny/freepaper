@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7aebf8438e19ede0b70f056d8061d726",
+    "revision": "5e21fd44f987e6a631f76b9b34c31d8e",
     "url": "/freepaper/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/freepaper/static/css/2.40a775a0.chunk.css"
   },
   {
-    "revision": "d7780596f7eb44fb4288",
+    "revision": "e62157341efab711837f",
     "url": "/freepaper/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/freepaper/static/js/2.d15183c2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d7780596f7eb44fb4288",
-    "url": "/freepaper/static/js/main.b9bfbd9c.chunk.js"
+    "revision": "e62157341efab711837f",
+    "url": "/freepaper/static/js/main.a54cc81b.chunk.js"
   },
   {
     "revision": "77b005147d53aba7b6a9",
